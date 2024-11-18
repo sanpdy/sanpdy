@@ -1,8 +1,10 @@
 ## Hello! I'm <a href="https://sankalppandey.tech/" style="color: red;">Sankalp</a>
 
-🤓 &nbsp;Undergrad @ the University of Arkansas pursuing a BS in Computer Science and Minors in Mathematics and Data Analytics.\
-🧠 &nbsp;I'm currently working on computer vision research.\
-🌱 &nbsp;I enjoy learning about artificial intelligence.
+🎓 &nbsp;Undergrad @ University of Arkansas\
+💻 &nbsp;Pursuing a BS in Computer Science & Computer Engineering\
+📊 &nbsp;Minors in Mathematics & Data Analytics\
+🧠 &nbsp;Currently working on computer vision & computational neuroscience research\
+🌱 &nbsp;Love learning about deep learning applications
 
 <p align="center;">
   
