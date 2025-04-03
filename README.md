@@ -1,16 +1,22 @@
-## Hello! I'm <a href="https://sankalppandey.tech/" style="color: red;">Sankalp</a>
+## Hello, I'm Sankalp!</a>
 
 🎓 &nbsp;Undergrad @ University of Arkansas\
-💻 &nbsp;Pursuing a BS in Computer Science & Computer Engineering\
+💻 &nbsp;Pursuing a dual BS in Computer Science & Computer Engineering\
 📊 &nbsp;Minors in Mathematics & Data Analytics\
 🧠 &nbsp;Currently working on computer vision & computational neuroscience research\
-🌱 &nbsp;Love learning about deep learning applications
-
+🌱 &nbsp;Love learning about deep learning applications\
+🚀 &nbsp;Check out my <a href="https://sankalppandey.tech/"> website!</a>
 <p align="center;">
   
   ![Sankalp's GitHub stats](https://github-readme-stats-eight-theta.vercel.app/api?username=sanpdy&show_icons=true&theme=synthwave)
     <img height="195em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=sanpdy&layout=compact&langs_count=8&theme=dark" />
 </p>
+
+
+## 🔗 My Projects
+- 🧠 [AI/ML Projects](https://github.com/sanpdy?tab=stars&list=AI/ML)
+- 🌐 [Web Dev Projects](https://github.com/sanpdy?tab=stars&list=web-dev)
+- 🎮 [Projects For Fun](https://github.com/sanpdy?tab=stars&list=coding_for_fun)
 
 
 <h2>🤝 &nbsp;Connect with Me</h2>
@@ -26,6 +32,7 @@
         <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/sanpdy?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white" />
     </a>
 </p>
+
 
 <div align="center">
 <pre>
