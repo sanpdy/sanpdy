@@ -14,9 +14,9 @@
 
 
 ## 🔗 My Projects
-- 🧠 [AI/ML Projects](https://github.com/sanpdy?tab=stars&list=AI/ML)
-- 🌐 [Web Dev Projects](https://github.com/sanpdy?tab=stars&list=web-dev)
-- 🎮 [Projects For Fun](https://github.com/sanpdy?tab=stars&list=coding_for_fun)
+- 🧠 [AI/ML Projects](https://github.com/stars/sanpdy/lists/ai-ml)
+- 🌐 [Web Dev Projects](https://github.com/stars/sanpdy/lists/web-dev)
+- 🎮 [Projects For Fun](https://github.com/stars/sanpdy/lists/coding-for-fun)
 
 
 <h2>🤝 &nbsp;Connect with Me</h2>
