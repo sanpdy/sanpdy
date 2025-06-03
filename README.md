@@ -3,7 +3,7 @@
 🎓 &nbsp;Undergrad @ University of Arkansas\
 💻 &nbsp;Pursuing a dual BS in Computer Science & Computer Engineering\
 📊 &nbsp;Minors in Mathematics & Data Analytics\
-🧠 &nbsp;Currently working on computer vision & computational neuroscience research\
+🧠 &nbsp;Currently working on quantum materials science & computational neuroscience research\
 🌱 &nbsp;Love learning about deep learning applications\
 🚀 &nbsp;Check out my <a href="https://sankalppandey.tech/"> website!</a>
 <p align="center;">
