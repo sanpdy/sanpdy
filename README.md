@@ -6,12 +6,6 @@
 🧠 &nbsp;Currently working on quantum materials science & computational neuroscience research\
 🌱 &nbsp;Love learning about deep learning applications\
 🚀 &nbsp;Check out my <a href="https://sankalppandey.tech/"> website!</a>
-<p align="center;">
-  
-  ![Sankalp's GitHub stats](https://github-readme-stats-eight-theta.vercel.app/api?username=sanpdy&show_icons=true&theme=synthwave)
-    <img height="195em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=sanpdy&layout=compact&langs_count=8&theme=dark" />
-</p>
-
 
 ## 🔗 My Projects
 - 🧠 [AI/ML Projects](https://github.com/stars/sanpdy/lists/ai-ml)
