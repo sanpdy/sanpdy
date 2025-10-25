@@ -1,13 +1,16 @@
 ## Hello, I'm Sankalp!
-```
+<pre>
 +-------------------------------------------------------------------------------+
 |   Undergraduate @ University of Arkansas                                      |
 |   Double BS: Computer Science & Computer Engineering                          |
 |   Minors: Mathematics, Data Analytics                                         |
 |   Research: Deep Learning for Quantum Materials & Computational Neuroscience  |
-|   Website: [sankalppandey.tech](https://sankalppandey.tech)                   |
+|   Website: <a href="https://sankalppandey.tech" target="_blank">sankalppandey.tech</a>                                                 |
 +-------------------------------------------------------------------------------+
-```
+</pre>
+
+
+
 
 ## My Projects
 - [AI/ML Projects](https://github.com/stars/sanpdy/lists/ai-ml)
