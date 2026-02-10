@@ -1,5 +1,5 @@
 ## Hello, I'm Sankalp!
-I'm pursuing a my B.S. in Computer Science & B.S. Computer Engineering @ University of Arkansas with minors in Mathematics and Data Analytics
+I'm pursuing my B.S. in Computer Science & B.S. Computer Engineering @ University of Arkansas with minors in Mathematics and Data Analytics
 In my research, I'm interested in studying robust AI systems for scientific discovery, especially in nanomaterials & neuroscience.
 Website: <a href="https://sankalppandey.tech" target="_blank">sankalppandey.tech</a>
 
