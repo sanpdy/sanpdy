@@ -1,7 +1,5 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=4&color=0:F97316,50:EF4444,100:A855F7" />
 
-# Sankalp Pandey
-
 I'm a Ph.D. student in Computer Science at the University of Arkansas, interested in `multimodal ai` `computer vision` `agentic ai` `scientific ml`.
 
 <p>
