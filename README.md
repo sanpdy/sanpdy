@@ -6,7 +6,7 @@ I'm a Ph.D. student in Computer Science at the University of Arkansas, intereste
   <a href="https://www.sankalppandey.tech/">
     <img src="https://img.shields.io/badge/Website-151515?style=for-the-badge&logo=safari&logoColor=F97316" />
   </a>
-  <a href="https://scholar.google.com/">
+  <a href="https://scholar.google.com/citations?user=ax7YxjwAAAAJ&hl=en">
     <img src="https://img.shields.io/badge/Scholar-151515?style=for-the-badge&logo=google-scholar&logoColor=EF4444" />
   </a>
   <a href="https://www.linkedin.com/in/sanpdy/">
